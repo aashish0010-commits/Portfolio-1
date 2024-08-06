@@ -1,0 +1,20 @@
+.mySwiper {
+    padding: 2rem;
+    background: #101010;
+  }
+  
+  .mySwiper .swiper-pagination-bullet {
+    background: #009E66;
+  }
+  
+  .mySwiper .swiper-button-next,
+  .mySwiper .swiper-button-prev {
+    display: none;
+  }
+  
+  .mySwiper .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
